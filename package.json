@@ -1,0 +1,19 @@
+{
+  "name": "butterfly-production",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulkoff/butterfly-2016.git"
+  },
+  "author": "alex_kulkoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kulkoff/butterfly-2016/issues"
+  },
+  "homepage": "https://github.com/kulkoff/butterfly-2016#readme"
+}
