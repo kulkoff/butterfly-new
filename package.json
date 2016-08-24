@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kulkoff/butterfly-2016/issues"
   },
-  "homepage": "https://github.com/kulkoff/butterfly-2016#readme"
+  "homepage": "https://github.com/kulkoff/butterfly-2016#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
